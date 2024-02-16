@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/Champions.html"
+status = 200
